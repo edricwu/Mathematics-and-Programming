@@ -16,5 +16,3 @@ def balls(black,white):
             x.append('black')
             shuffle(x)
     return x[0]
-
-print (balls(150,75))
