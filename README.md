@@ -1,2 +1,2 @@
 # Mathematics-and-Programming
-Introduce to participants how Mathematics can be crucial in programming
+A self-initiated workshop with the purpose of introducing how Mathematics can be an integral part of programming.
