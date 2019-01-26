@@ -1,11 +1,3 @@
-# Github Link:
-# https://github.com/jamesandrewpohadi/Mathematics-Programming
-
-# Google Drive link:
-# https://drive.google.com/drive/folders/1bKBv65ZOqR-18-PTeSri8MFjLmgAP28F?usp=sharing
-
-# press F5 to run the code from python idle
-
 def printIfVerbose(verbose, msg):
     if verbose:
         print(msg)
