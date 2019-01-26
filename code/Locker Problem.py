@@ -4,5 +4,3 @@ def locker(x,y):
         for k in range (i,x+1,i):
             locker[k-1] = not locker[k-1]
     return locker.count(True)
-
-print (locker(491,491))
